@@ -30,8 +30,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 To run this project locally, clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/yourusername/noise-earphones-landing-page.git
-cd noise-earphones-landing-page
+git clone https://github.com/valor30/PRODIGY_WD_01.git
+cd PRODIGY_WD_01
 ```
 
 Open `index.html` in your preferred browser.
@@ -44,7 +44,7 @@ Open `index.html` in your preferred browser.
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to open an issue or contact me at [valor3011@gmail.com](mailto:valor3011@gmail.com).
 
 ---
 

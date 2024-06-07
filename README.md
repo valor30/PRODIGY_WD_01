@@ -1,4 +1,4 @@
-# Noise Earphones Landing Page
+# Noise Earphones Landing Page🎧
 
 This is a responsive landing page for NOISE earphones, built using HTML, CSS, and JavaScript. The page features smooth scrolling, dynamic navigation, and reveal animations to create a seamless and engaging user experience.
 
@@ -50,4 +50,5 @@ For any questions or suggestions, feel free to open an issue or contact me at [v
 
 Thank you for using the NOISE earphones landing page! We hope you enjoy the smooth and engaging experience.
 
-## Preview
+## Preview💻🖥️
+![preview](images/preview.gif)
